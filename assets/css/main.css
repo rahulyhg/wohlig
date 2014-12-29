@@ -1,0 +1,298 @@
+/* CSS Document */
+
+@font-face {
+	font-family: 'Wohlig';
+	src: url('fonts/wohlig.eot');
+	src: local('☺'), url('fonts/wohlig.woff') format('woff'), url('fonts/wohlig.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Merge';
+	src: local('☺'), url('fonts/merge.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	overflow: hidden;
+}
+h1,h2,h3,h4,h5 {
+	font-family:"Wohlig";
+}
+.compresspage {
+	width: 100%;
+	overflow: hidden;
+}
+.ui-widget select {
+	display: none;
+}
+.center {
+	text-align: center;
+}
+.btn {
+	margin-right: 20px;
+}
+.content {
+	min-height: 505px;
+}
+.detail {
+	display: none;
+}
+.order {
+	display: none;
+}
+.bold {
+	font-weight: bold;
+}
+.bordered {
+	margin: 10px 0px;
+}
+.logotext {
+	color: #D9D9D9;
+	font-size: 100px;
+	line-height: 100%;
+	padding: 10px 10px 50px 10px;
+	font-family: "Wohlig";
+}
+.logotext a {
+	text-decoration: none;
+	color: inherit;
+}
+.logocircle {
+	background: #f7a961;
+	border-radius: 500px;
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	-o-transition: all 1s;
+	transition-duration: 1s;
+	height: 53px;
+	width: 53px;
+	display: inline-block;
+}
+.smallcircle {
+	background: #d9d9d9;
+	border-radius: 500px;
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	-o-transition: all 1s;
+	transition-duration: 1s;
+	height: 49px;
+	width: 49px;
+	display: inline-block;
+	position: absolute;
+	left: 92px;
+	top: 43px;
+}
+.circle {
+	float: left;
+	padding: 10px;
+	background: #d9d9d9;
+	border-radius: 500px;
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	-o-transition: all 1s;
+	transition-duration: 1s;
+}
+.circletext {
+	font-family: "Wohlig";
+	color: white;
+	text-align: center;
+	font-size: 26px;
+	margin-top: 165px;
+	width: 220px;
+	position: absolute;
+}
+.circle img {
+	width: 200px;
+	height: 200px;
+}
+.circle:hover {
+	-webkit-transform: rotateZ(20deg);
+	-webkit-box-shadow: 3px 3px 10px 1px rgb(184, 184, 184);
+}
+.about {
+	background: #976754;
+	color: #976754;
+}
+.team {
+	background: #f76164;
+	color: #f76164;
+}
+.services {
+	background: #55C916;
+	color: #55C916;
+}
+.products {
+	background: #C845E9;
+	color: #C845E9;
+}
+.portfolio {
+	background: #6196f7;
+	color: #6196f7;
+}
+.testimonial {
+	background: #F74887;
+	color: #F74887;
+}
+.contact {
+	background: #F79032;
+	color: #F79032;
+}
+.grey {
+	background: #d9d9d9;
+	color: #d9d9d9;
+}
+.large {
+	width: 1200px;
+	height: 1200px;
+	float: left;
+	padding: 10px;
+	margin-top: -30%;
+	border-radius: 800px;
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	-o-transition: all 1s;
+	transition-duration: 1s;
+}
+.span3 {
+	padding-bottom: 10px;
+}
+.smallcircletext {
+	font-size: 26px;
+	display: none;
+	margin-top: -76px;
+	width: 1000px;
+	height: 200px;
+	margin-left: 44px;
+	position: relative;
+}
+.pagetitle {
+	position: absolute;
+	top: 25px;
+	color: white;
+	right: 5%;
+	font-family: "Wohlig";
+	font-size: 50px;
+}
+.internal {
+	width: 45%;
+	height: 500px;
+	right: 5%;
+	top: 126px;
+	position: absolute;
+	color: white;
+}
+.internal p {
+	text-transform: lowercase;
+	color: white;
+	font-family: "Merge";
+	font-size: 16px;
+	text-align: right;
+	line-height: 150%;
+}
+.internal h1,.internal h2,.internal h3, .internal h4, .internal h5 {
+	text-align:right;
+	text-transform:lowercase;
+}
+.internal h3 {
+	font-size: 25px;
+	font-family: "Wohlig";
+	color: white;
+	text-align: right;
+	text-transform: lowercase;
+}
+.internal p.quotes {
+	font-size: 16px;
+	line-height: 200%;
+	font-family: "Merge";
+}
+.internal p.quotes:before {
+	font-size: 80px;
+	color: white;
+	font-weight: bold;
+}
+.internal p.quotes:after {
+	font-size: 80px;
+	color: white;
+	font-weight: bold;
+}
+label {
+	color: white;
+	font-family: 'Merge', sans-serif;
+	text-transform: lowercase;
+	font-weight: normal;
+	display: inline-block;
+	width: 87px;
+	font-size: 16px;
+}
+.cspan1 {
+	float: right;
+	margin-top:34px;
+}
+.internalcircle {
+	width: 175px;
+	height: 175px;
+	border-radius: 500px;
+	background: white;
+	position: absolute;
+	text-align: center;
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	-o-transition: all 1s;
+	transition-duration: 1s;
+}
+
+.internalcircle:hover {
+-webkit-transform: rotateZ(20deg);
+
+}
+.circles {
+	margin-left: 40%;
+	position: relative;
+}
+p.testiquote {
+	padding-left: 65px;
+	background: url('../img/comma.png') no-repeat;
+	text-align: left;
+	height: 70px;
+	font-size: 18px;
+	padding-bottom: 25px;
+}
+p.testiquote .by {
+	text-align: right;
+	font-size: 16px;
+	float: right;
+	margin-top: 15px;
+	text-transform:capitalize;
+}
+h3 .desig {
+	font-family:"Merge";
+	font-size:70%;
+	font-weight:normal;
+	padding-left:10px;
+}.submitimg {	width: 150px;	border-radius: 5px;	margin-top: 20px;	cursor:pointer;	-webkit-transition:all 1s;
+}
+
+.textmap p {
+margin-top: 10px;
+text-align: center;
+font-size: 125%;
+display:none;
+}
+.gmnoprint {
+display:none;
+}
+input.iserror, textarea.iserror  {	
+	border: 1px solid red;
+box-shadow: 1px 1px 10px 1px rgba(255, 0, 0, 0.48);
+}
+.contactsubmit {
+opacity:0.4;
+-webkit-transition:all 1s;
+}
+.contactform {
+	width:315px;
+}
+

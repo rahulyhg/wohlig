@@ -1,0 +1,4 @@
+<h3>Dhruv Dholakia <span class="desig">Designer | Marketing</span></h3>
+<p>Dhruv Dholakia, is an Computer Engineer from one of the finest college of Mumbai, he has worked in several organizations as volunteer, provided IT and marketing support in various NGOs</p>
+<p>He is a very fast learner. The Special & General Theory of Relativity was understood by him in school days. Even before joining us he didn't have any knowledge of Designing but he is now one of our finest Designer. He can make an old woman young ...? Thinking? In Photoshop! He is very stingy. He is that stingy that he even uses every paper napkin in a restaurant and takes home the left one's home to use them as towel.</p>
+<p>Contact: +919029560949 | dhruv@wohlig.com.</p>
