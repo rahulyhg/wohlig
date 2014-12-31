@@ -33,6 +33,14 @@ class Site extends CI_Controller {
 		$data[ 'internal' ]     = 'chintan';
 		$this->load->view( 'template', $data );
 	}
+    	function chirag( )
+	{
+		$data[ 'color' ] = 'team';
+		$data[ 'page' ] = 'innerpage';
+		$data[ 'title' ]     = 'Wohlig Team Chirag';
+		$data[ 'internal' ]     = 'chirag';
+		$this->load->view( 'template', $data );
+	}
 	function dhruv( )
 	{
 		$data[ 'color' ] = 'team';

@@ -7,6 +7,18 @@
 	</div>
 	<a href="<?php echo site_url('/site/tushar') ;?>"><div class="internalcircle" image="tushar">
 	</div>
+<!--
+	<a href="<?php echo site_url('/site/chirag') ;?>"><div class="internalcircle" image="tushar">
+	</div>
+	<a href="<?php echo site_url('/site/avinash') ;?>"><div class="internalcircle" image="Avinash">
+	</div>
+	<a href="<?php echo site_url('/site/jagruti') ;?>"><div class="internalcircle" image="Jagruti">
+	</div>
+	<a href="<?php echo site_url('/site/mahesh') ;?>"><div class="internalcircle" image="Mahesh">
+	</div>
+	<a href="<?php echo site_url('/site/sohan') ;?>"><div class="internalcircle" image="Sohan">
+	</div>
+-->
 	
 	</div>
 </div>
