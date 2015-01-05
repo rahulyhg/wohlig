@@ -1,35 +1,27 @@
 <?php 
 
-$folio[0]->header="Bungalow Stays Logo";
-$folio[1]->header="Fiona International Logo";
-$folio[2]->header="Golf Shirt Logo";
-$folio[3]->header="Saral Pooja Logo";
-$folio[4]->header="Vintage Earth Banner";
-$folio[5]->header="What A Surprise";
-$folio[6]->header="NextGen Solutions";
-$folio[0]->img="design4";
-$folio[1]->img="design6";
-$folio[2]->img="design2";
-$folio[3]->img="design1";
-$folio[4]->img="design3";
-$folio[5]->img="design5";
-$folio[6]->img="design7";
+$folio[0]->header="SuperU Home";
+$folio[1]->header="SuperU Play";
+$folio[2]->header="SuperU Score";
+$folio[3]->header="Toykraft Puzzel";
 
-$folio[0]->description="Designing of Corporate Identity.";
-$folio[1]->description="Designing of Corporate Identity.";
-$folio[2]->description="Designing of Corporate Identity.";
-$folio[3]->description="Designing of Corporate Identity.";
-$folio[4]->description="Designing of Banner.";
-$folio[5]->description="Designing of Webpage.";
-$folio[6]->description="Designing of Webpage & Corporate Identity.";
+$folio[0]->img="mobile17";
+$folio[1]->img="mobile18";
+$folio[2]->img="mobile19";
+$folio[3]->img="mobile20";
 
-$folio[0]->technology="Adobe Illustrator";
-$folio[1]->technology="Adobe Illustrator";
-$folio[2]->technology="Adobe Illustrator";
-$folio[3]->technology="Adobe Illustrator";
-$folio[4]->technology="Adobe Illustrator, Adobe Photoshop";
-$folio[5]->technology="Adobe Illustrator, Adobe Photoshop";
-$folio[6]->technology="Adobe Illustrator, Adobe Photoshop";
+
+$folio[0]->description="SuperU Simple, Light, Single Handed Game Helps You Pass Your Time In An Enjoyeble Way. ";
+$folio[1]->description="Addictive Game To Save The SuperU City Fun Game Where You Control SuperU And Save Him From Colliding With The Buildings , Hot Air Balloons And Space Crafts.";
+$folio[2]->description="You Can Share You High Score And Complete With Your Freinds On Google Play Service.";
+$folio[3]->description="Toykraft Puzzel Is Learn With Toy-Kraft Apps. Solve Your Favourite Zigsaw Puzzel On The Go! Pegasus Toy-Kraft Pvt.Ltd. Provide An Unbeatable Puzzel Solving  Expreriance For Young Ones.";
+
+
+$folio[0]->technology="Lua programming, Corona Labs.";
+$folio[1]->technology="Lua programming, Corona Labs.";
+$folio[2]->technology="Lua programming, Corona Labs.";
+$folio[3]->technology="Lua programming, Corona Labs.";
+
 
 
 ?>

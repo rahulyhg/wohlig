@@ -3,11 +3,11 @@
 	</div></a>
 	<a href="<?php echo site_url('/site/portfolioerp') ;?>"><div class="internalcircle" image="erp">
 	</div>
-	<a href="<?php echo site_url('/site/portfolioipadmenu') ;?>"><div class="internalcircle" image="ipadmenu">
+	<a href="<?php echo site_url('/site/portfolioipadmenu') ;?>"><div class="internalcircle" image="ordermanegment">
 	</div>
     <a href="<?php echo site_url('/site/portfoliomobile') ;?>"><div class="internalcircle" image="mobileapp">
 	</div>
-    <a href="<?php echo site_url('/site/portfoliodesigning') ;?>"><div class="internalcircle" image="designing">
+    <a href="<?php echo site_url('/site/portfoliodesigning') ;?>"><div class="internalcircle" image="gamedevelopment">
 	</div>
 
 </div>

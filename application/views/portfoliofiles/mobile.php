@@ -34,12 +34,12 @@ $folio[14]->img="mobile9";
 $folio[15]->img="mobile10";
 
 
-$folio[0]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
-$folio[1]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
-$folio[2]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
-$folio[3]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
-$folio[4]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
-$folio[5]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
+$folio[0]->description="91streets - shopping companion is a great shopping application which enables customers to locate stores, locate brands, follow brands and find great discounts when they plan to shop.";
+$folio[1]->description="91streets - shopping companion is a great shopping application which enables customers to locate stores, locate brands, follow brands and find great discounts when they plan to shop.";
+$folio[2]->description="91streets simplifies the shopping experience by helping the user to. Locate Stores, Locate Malls, Find Offers and discounts in stores, Find offers and discounts in malls, Follow Brands.";
+$folio[3]->description="Poltician Apps Is Simple With Attractive User Interface. Showing Your Politician Details.There Is Many Feature in This App Like Schedule, Enquiry mail, YouTube Video, facebook, Twitter Likes.";
+$folio[4]->description="In Politician Apps You Can Easly Watch Your Politician Video On YouTube.And You Can See Them tweet.Other Feature Is That You Can See Photos.";
+$folio[5]->description="Favourite feature Is That You can Check facebook page.There are Lots of feature In This Like Next Meeting Schedule.You Can Join Easly With Membership Form.";
 $folio[6]->description="ROW (Roster On Wheels) ";
 $folio[7]->description="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
 $folio[8]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
@@ -54,12 +54,12 @@ $folio[15]->description="A collection of textile samples lay spread out on the t
 
 
 
-$folio[0]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
-$folio[1]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
-$folio[2]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
-$folio[3]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
-$folio[4]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
-$folio[5]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
+$folio[0]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Ionic, Jquery Mobile, PhoneGap, Angularjs, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
+$folio[1]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Ionic, Jquery Mobile, PhoneGap, Angularjs, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
+$folio[2]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Ionic, Jquery Mobile, PhoneGap, Angularjs, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
+$folio[3]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Ionic, Jquery Mobile, PhoneGap, Angularjs, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
+$folio[4]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Ionic, Jquery Mobile, PhoneGap, Angularjs, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
+$folio[5]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Ionic, Jquery Mobile, PhoneGap, Angularjs, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
 $folio[6]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
 $folio[7]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
 $folio[8]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";

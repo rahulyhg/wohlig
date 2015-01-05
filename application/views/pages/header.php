@@ -365,12 +365,14 @@ transform: rotate(900deg);
 }
 </style>
 
-
+<!--<script>var base_url="<?php echo base_url();?>";</script>-->
 <script src="<?php echo base_url('assets/js/jquery.js'); ?>"> </script>
 <script src="<?php echo base_url('assets/js/jquery-ui.js'); ?>"></script>
 <script src="<?php echo base_url('assets/js/bootstrap.js'); ?>"></script>
+<!--<script src="<?php echo base_url('assets/js/main.js'); ?>"></script>-->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title><?php echo $title; ?> - Wohlig Technologies LLP. </title>
+
 </head>
 <body>
 

@@ -3,7 +3,7 @@
 	</div></a>
 	<a href="<?php echo site_url('/site/erp') ;?>"><div class="internalcircle" image="erp">
 	</div>
-	<a href="<?php echo site_url('/site/ipadmenu') ;?>"><div class="internalcircle" image="ipadmenu">
+	<a href="<?php echo site_url('/site/ipadmenu') ;?>"><div class="internalcircle" image="ordermanegment">
 	</div>
 
 </div>

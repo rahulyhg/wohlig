@@ -41,6 +41,49 @@ class Site extends CI_Controller {
 		$data[ 'internal' ]     = 'chirag';
 		$this->load->view( 'template', $data );
 	}
+        	function avinash( )
+	{
+		$data[ 'color' ] = 'team';
+		$data[ 'page' ] = 'innerpage';
+		$data[ 'title' ]     = 'Wohlig Team Avinash';
+		$data[ 'internal' ]     = 'avinash';
+		$this->load->view( 'template', $data );
+	}
+            	function jagruti( )
+	{
+		$data[ 'color' ] = 'team';
+		$data[ 'page' ] = 'innerpage';
+		$data[ 'title' ]     = 'Wohlig Team Jagruti';
+		$data[ 'internal' ]     = 'jagruti';
+		$this->load->view( 'template', $data );
+	}
+    
+                	function mahesh( )
+	{
+		$data[ 'color' ] = 'team';
+		$data[ 'page' ] = 'innerpage';
+		$data[ 'title' ]     = 'Wohlig Team Mahesh';
+		$data[ 'internal' ]     = 'mahesh';
+		$this->load->view( 'template', $data );
+	}
+                    	function sohan( )
+	{
+		$data[ 'color' ] = 'team';
+		$data[ 'page' ] = 'innerpage';
+		$data[ 'title' ]     = 'Wohlig Team Sohan';
+		$data[ 'internal' ]     = 'sohan';
+		$this->load->view( 'template', $data );
+	}
+                        	function shrutika( )
+	{
+		$data[ 'color' ] = 'team';
+		$data[ 'page' ] = 'innerpage';
+		$data[ 'title' ]     = 'Wohlig Team Shrutika';
+		$data[ 'internal' ]     = 'shrutika';
+		$this->load->view( 'template', $data );
+	}
+    
+    
 	function dhruv( )
 	{
 		$data[ 'color' ] = 'team';
