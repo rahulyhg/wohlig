@@ -36,7 +36,7 @@
         </div>
     </a>
     <a href="<?php echo site_url('/site/shrutika') ;?>">
-        <div class="internalcircle" image="Shrutika">
+        <div class="internalcircle" image="shrutika">
         </div>
     </a>
 
