@@ -54,7 +54,7 @@
 
     function makeinternalcircular(deg) {
         var total = $('.internalcircle').length;
-        console.log(total);
+        //console.log(total);
         var xaxis = 0;
         var yaxis = 0;
         internalwidth = $('.internalcircle').css('width');
@@ -65,11 +65,11 @@
         */
         var angle2 = 2 / total * Math.PI;
         //angle=Math.PI/2;
-        console.log(Math.sin(angle));
+        //console.log(Math.sin(angle));
         for (var i = 0; i < total; i++) {
 
             var angle = angle2 * i + (deg * Math.PI / 180);
-            console.log(angle * 180 / Math.PI);
+            //console.log(angle * 180 / Math.PI);
             yaxis = radius - (Math.cos(angle) * radius);
             xaxis = (Math.sin(angle) * radius);
 
@@ -78,7 +78,7 @@
                 'left': xaxis,
                 'top': yaxis
             });
-            console.log(xaxis);
+            //console.log(xaxis);
 
         }
         for (var i = 0; i < total; i++) {
