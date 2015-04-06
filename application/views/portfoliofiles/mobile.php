@@ -15,6 +15,11 @@ $folio[12]->header="ROW: Today's Events";
 $folio[13]->header="ROW: Notifications";
 $folio[14]->header="Mall Khoj: Home Screen of Mall Khoj";
 $folio[15]->header="Mall Khoj: Mall View";
+$folio[16]->header="Fit Lab: Home View";
+$folio[17]->header="Fit Lab: Compare Video";
+$folio[18]->header="Fit Lab: Video";
+$folio[19]->header="Fit Lab: Review";
+
 
 $folio[0]->img="mobile12";
 $folio[1]->img="mobile14";
@@ -32,6 +37,11 @@ $folio[12]->img="mobile7";
 $folio[13]->img="mobile8";
 $folio[14]->img="mobile9";
 $folio[15]->img="mobile10";
+$folio[16]->img="mobile24";
+$folio[17]->img="mobile25";
+$folio[18]->img="mobile26";
+$folio[19]->img="mobile27";
+
 
 
 $folio[0]->description="91streets - shopping companion is a great shopping application which enables customers to locate stores, locate brands, follow brands and find great discounts when they plan to shop.";
@@ -50,6 +60,11 @@ $folio[12]->description="A collection of textile samples lay spread out on the t
 $folio[13]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
 $folio[14]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
 $folio[15]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
+$folio[16]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
+$folio[17]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
+$folio[18]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
+$folio[19]->description="A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.";
+
 
 
 
@@ -70,6 +85,10 @@ $folio[12]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Cod
 $folio[13]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
 $folio[14]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Ionic, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
 $folio[15]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Ionic, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
+$folio[16]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
+$folio[17]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Ionic, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
+$folio[18]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Ionic, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
+$folio[19]->technology="HTML 5, CSS 3, JQuery, Ajax, PHP 5, MYSQL, Bootsrap, Ionic, Codeignitor, Jquery Mobile, PhoneGap, Hammer.js, JQuery Validator, Adobe Photoshop, Adobe Illustrator.";
 
 
 ?>

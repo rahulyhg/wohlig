@@ -96,6 +96,10 @@ $folio[16]->img="orgstn";
 $folio[16]->description="Self Developed Slider, beautiful transitions and animation perfectly blending to the feel. Uses extensive of animations and ajax making the website lite and simple.";
 $folio[16]->technology="HTML5, CSS3, jQuery, PHP, Ajax";
 
+$folio[17]->header="Furnicheer";
+$folio[17]->img="furnicheer";
+$folio[17]->description="Furnicheer is contemporary, clean lined, simple, warm and uncluttered. Uses extensive of animations making the website lite and simple.";
+$folio[17]->technology="HTML5, CSS3, jQuery, PHP";
 
 
 
