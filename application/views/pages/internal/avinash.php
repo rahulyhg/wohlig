@@ -1,6 +1,9 @@
 <h3>Avinash Ghare
-<span class="desig">Web Developer | Backend Developer</span>
+<span class="desig">Backend Developer</span>
 </h3>
-<p>Chintan Shah is the founder of Wohlig Web Solutions. He developed first website in 10th standard, he started his company while studding in 2nd Year of Engineering College. Bla Bla Bla... When you think of a nerd and the picture that comes in your mind will be quite similar to Chintan.</p><p>He is not interested in games, movies or girls. His favorite time pass is learning some new computer language, creating applications and reading some self-help books.  He is a good friend, hard working, but a complete bore. The last time he changed his Facebook profile was may be 2 or 3 years ago.</p>
-<p> <b>Favorite Word:</b> "Kindness"</p>
+<p>The person who thinks of himself as really boring and quiet, but he actually does talk quite a lot. Avinash is one of the developers in Wohlig who is passionate about his work and enjoys doing what he does. He loves singing and riding bikes whenever he gets an opportunity to do so. </p><p>A badminton player, he likes outdoors more than indoors. A die hard cricket fan he is just another Sachin Tendulkar fan who live, dreams and breathes cricket. He likes to hand out with his friends and their favorite past time together is ‘bird watching’. </p>
+<p> Though he comes across as quite chilled out, he is one big bhav khau and won’t open up that easily with people at first. he wants to become a good developer and wants to give his best for the team. The emotional and family oriented guy is quite the masti knor when you actually get to know him in person.</p>
+<p> <b>Favorite movie -</b> "3 idiots"</p>
+<p> <b>Favorite Quote -</b> "Love is everything. Embrace it and you'll find true happiness in life."</p>
+<p> <b>One word for him -</b> "Flirt"</p>
 <p><b>Contact:</b> +918983454456 | avinash@wohlig.com</p>

@@ -1,6 +1,8 @@
 <h3>Tushar Sachde
-<span class="desig">Graphic Designer | Web Designer</span>
+<span class="desig">Graphic Designer | Web Designer | App Developer</span>
 </h3>
-<p>Tushar is yet a student, studying in 3rd year of BSc IT. He is an excellent web designer, has got CSS is in his blood, and he was born with the knowledge of HTML and Photoshop. He is studying in College but we don’t think he attends a single lecture in college.</p><p> He never knows anything about the college. his assignments are completed by his friends who meet him just once a year to get their payments. He is creative, funny and very punctual. His favorite time pass is watching movies, fishing girls and learning some Photoshop and CSS tricks.</p>
-<p> <b>Favorite Word:</b> "Gollum"</p>
+<p>The kid of the firm. He is the lamest person in the group who just wont stop cracking lame jokes. Though he is just 21, he has been a part of Wohlig since 4 years. One of the co-founders who loves to work (only) on holidays and he is the one who is always responsible for delays in projects. </p><p> His favourite past time is eating, cracking lame jokes and watching movies. The other people in the team give him all the food that they cannot have and it is gone in a matter of minuites. He is disinterested in books or any form of literature. He is a gadget freak and loves gaming. </p><p> However, his designing skills and the way his creative mind works shows how capable and talented he is. He has managed to create the most extra ordinary designs for the websites and applications for the clients.</p>
+<p> <b>Favourite movie -</b> "Dil Chahta hai"</p>
+<p> <b>Favourite Quote -</b> "You dont know me, you are about to."</p>
+<p> <b>One word for him -</b> "feku"</p>
 <p><b>Contact:</b> +919029796018 | tushar@wohlig.com.</p>

@@ -3,22 +3,22 @@
         <div class="internalcircle" image="chintan">
         </div>
     </a>
-    <a href="<?php echo site_url('/site/dhruv') ;?>">
-        <div class="internalcircle" image="dhruv">
+     <a href="<?php echo site_url('/site/chirag') ;?>">
+        <div class="internalcircle" image="chirag">
         </div>
     </a>
+     <a href="<?php echo site_url('/site/tushar') ;?>">
+        <div class="internalcircle" image="tushar">
+        </div>
+    </a>
+<!--
     <a href="<?php echo site_url('/site/omar') ;?>">
         <div class="internalcircle" image="omar">
         </div>
     </a>
-    <a href="<?php echo site_url('/site/tushar') ;?>">
-        <div class="internalcircle" image="tushar">
-        </div>
-    </a>
-    <a href="<?php echo site_url('/site/chirag') ;?>">
-        <div class="internalcircle" image="chirag">
-        </div>
-    </a>
+-->
+   
+   
     <a href="<?php echo site_url('/site/avinash') ;?>">
         <div class="internalcircle" image="avinash">
         </div>
@@ -35,10 +35,27 @@
         <div class="internalcircle" image="sohan">
         </div>
     </a>
-    <a href="<?php echo site_url('/site/shrutika') ;?>">
-        <div class="internalcircle" image="shrutika">
+      <a href="<?php echo site_url('/site/dhaval') ;?>">
+        <div class="internalcircle" image="dhaval">
         </div>
     </a>
+      <a href="<?php echo site_url('/site/pooja') ;?>">
+        <div class="internalcircle" image="pooja">
+        </div>
+    </a>
+      <a href="<?php echo site_url('/site/sapana') ;?>">
+        <div class="internalcircle" image="sapana">
+        </div>
+    </a>
+     <a href="<?php echo site_url('/site/vignesh') ;?>">
+        <div class="internalcircle" image="vignesh">
+        </div>
+    </a>
+  <a href="<?php echo site_url('/site/saloni') ;?>">
+        <div class="internalcircle" image="saloni">
+        </div>
+    </a>
+
 
 </div>
 
@@ -58,7 +75,7 @@
         var xaxis = 0;
         var yaxis = 0;
         internalwidth = $('.internalcircle').css('width');
-        radius = 320;
+        radius = 360;
         /*
             var first=$('.internalcircle').get(0)
             $(first).css('left','50%');

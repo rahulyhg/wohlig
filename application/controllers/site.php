@@ -66,6 +66,16 @@ class Site extends CI_Controller {
 		$data[ 'internal' ]     = 'mahesh';
 		$this->load->view( 'template', $data );
 	}
+    
+                   	function pooja( )
+	{
+		$data[ 'color' ] = 'team';
+		$data[ 'page' ] = 'innerpage';
+		$data[ 'title' ]     = 'Wohlig Team Pooja';
+		$data[ 'internal' ]     = 'pooja';
+		$this->load->view( 'template', $data );
+	}
+    
                     	function sohan( )
 	{
 		$data[ 'color' ] = 'team';
@@ -74,12 +84,12 @@ class Site extends CI_Controller {
 		$data[ 'internal' ]     = 'sohan';
 		$this->load->view( 'template', $data );
 	}
-                        	function shrutika( )
+                        	function dhaval( )
 	{
 		$data[ 'color' ] = 'team';
 		$data[ 'page' ] = 'innerpage';
-		$data[ 'title' ]     = 'Wohlig Team Shrutika';
-		$data[ 'internal' ]     = 'shrutika';
+		$data[ 'title' ]     = 'Wohlig Team Dhaval';
+		$data[ 'internal' ]     = 'dhaval';
 		$this->load->view( 'template', $data );
 	}
     
@@ -109,12 +119,12 @@ class Site extends CI_Controller {
 		$this->load->view( 'template', $data );
 	}
 	
-	function bharat( )
+	function vignesh( )
 	{
 		$data[ 'color' ] = 'team';
 		$data[ 'page' ] = 'innerpage';
-		$data[ 'title' ]     = 'Team Bharat';
-		$data[ 'internal' ]     = 'bharat';
+		$data[ 'title' ]     = 'Team Vignesh';
+		$data[ 'internal' ]     = 'vignesh';
 		$this->load->view( 'template', $data );
 	}
 	function services( )
