@@ -1,6 +1,8 @@
 <h3>Sohan Honakeri
-<span class="desig">Web Developer | Web Designer </span>
+<span class="desig">Web Developer | Web Designer | App Developer</span>
 </h3>
-<p>Chintan Shah is the founder of Wohlig Web Solutions. He developed first website in 10th standard, he started his company while studding in 2nd Year of Engineering College. Bla Bla Bla... When you think of a nerd and the picture that comes in your mind will be quite similar to Chintan.</p><p>He is not interested in games, movies or girls. His favorite time pass is learning some new computer language, creating applications and reading some self-help books.  He is a good friend, hard working, but a complete bore. The last time he changed his Facebook profile was may be 2 or 3 years ago.</p>
-<p> <b>Favorite Word:</b> "Woot"</p>
-<p><b>Contact:</b> +917208372744 | sohan@wohlig.com</p>
+<p>He is the quietest guy in the group. He literally won’t open his mouth until absolutely necessary and when it is required. Since he is the quietest, he is teased often and is usually the butt of jokes in the group. But though people make fun of his quiet demeanor, the entire team knows that his patience levels and work skills are unparallel. </p><p>He works like a pro and gives his best in whatever he does. He has had an extraordinary school life where he was yelled for not talking. Yes, for not talking, Sohan was punished. But he sheepishly grins and says that the punishment usually came when he dint answer the questions asked by the teachers. Like he was a good boy in school, he was quiet in college too, but he claims that the friends he had were fun enough to make sure that no matter how quiet he is he does all types of crazy college shit which most people do.  </p><p>He is a complete family person and a very protective brother to both his siblings. Though he is not the most talkative of the three, he surely knows how to pull their legs and have a good laugh with them.</p>
+<p> <b>Favourite movie -</b> "Rang de basanti"</p>
+<p> <b>Favourite Quote -</b> "peace can save the world."</p>
+<p> <b>One word for him -</b> "slow"</p>
+<!--<p><b>Contact:</b> +919029796018 | tushar@wohlig.com.</p>-->

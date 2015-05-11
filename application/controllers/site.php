@@ -127,6 +127,24 @@ class Site extends CI_Controller {
 		$data[ 'internal' ]     = 'vignesh';
 		$this->load->view( 'template', $data );
 	}
+    
+    	function sapana( )
+	{
+		$data[ 'color' ] = 'team';
+		$data[ 'page' ] = 'innerpage';
+		$data[ 'title' ]     = 'Team Sapana';
+		$data[ 'internal' ]     = 'sapana';
+		$this->load->view( 'template', $data );
+	}
+     	function saloni( )
+	{
+		$data[ 'color' ] = 'team';
+		$data[ 'page' ] = 'innerpage';
+		$data[ 'title' ]     = 'Team Saloni';
+		$data[ 'internal' ]     = 'saloni';
+		$this->load->view( 'template', $data );
+	}
+    
 	function services( )
 	{
 		$data[ 'color' ] = 'services';
