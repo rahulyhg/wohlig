@@ -22,7 +22,7 @@ function initialize() {
 
   var mapOptions = {
     zoom: 15,
-    center: new google.maps.LatLng(19.07603,72.898872),
+    center: new google.maps.LatLng(19.0398171,72.8599335),
     mapTypeId: google.maps.MapTypeId.ROADMAP,
 	 mapTypeControlOptions: {
       mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'map_style']
@@ -34,7 +34,7 @@ function initialize() {
   map.setMapTypeId('map_style');							
 
   var image = '<?php echo base_url("assets/img/pointer.png"); ?>';
-  var myLatLng = new google.maps.LatLng(19.072461,72.900386);
+  var myLatLng = new google.maps.LatLng(19.0398171,72.8599335);
   var wohligMarker = new google.maps.Marker({
       position: myLatLng,
       map: map,
@@ -42,10 +42,10 @@ function initialize() {
   });
   
   google.maps.event.addListener(wohligMarker, 'click', function() {
-    window.open("https://www.google.co.in/maps?q=19.072461,72.900386&num=1&t=m&z=10",'_blank');
+    window.open("https://www.google.co.in/maps/place/Sadhana+English+Primary+School/@19.0398171,72.8599335,15z/data=!4m5!1m2!2m1!1s+sadhana+school++Sion+(W)+,+Mumbai+400022!3m1!1s0x3be7cf2cc4000001:0xc683a42662527334",'_blank');
   });
   google.maps.event.addListener(map, 'click', function() {
-    window.open("https://www.google.co.in/maps?q=19.072461,72.900386&num=1&t=m&z=10",'_blank');
+    window.open("https://www.google.co.in/maps/place/Sadhana+English+Primary+School/@19.0398171,72.8599335,15z/data=!4m5!1m2!2m1!1s+sadhana+school++Sion+(W)+,+Mumbai+400022!3m1!1s0x3be7cf2cc4000001:0xc683a42662527334",'_blank');
   });
   
   google.maps.event.addListener(wohligMarker, 'mouseover', function() {
