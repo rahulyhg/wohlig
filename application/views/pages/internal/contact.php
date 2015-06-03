@@ -166,7 +166,7 @@ $('document').ready( function () {
 
 
     </script>
-<p style="margin-bottom: 30px;">520, RIIDL Somaiya Vidyavihar, New engineering building, K.J.Somaiya College of Engineering, Vidyavihar (E), Mumbai 400077.<br/>Tel: 9819222221   Email: chintan@wohlig.com</p>
+<p style="margin-bottom: 30px;">Plot no. 3, Flat no. A/30 Laxmi Nivas , 3rd floor , Near sadhana school , Sion (W) , Mumbai 400022.<br/>Tel: +91 98200 45678 / +91 9819222221   Email: info@wohlig.com</p>
 <div class="row">
 <div class="cspan1">
  <div id="map-canvas" style="width:250px; height:250px;"></div>
