@@ -249,7 +249,15 @@ class Site extends CI_Controller {
 		$data[ 'title' ]     = 'Contact';
 		$data[ 'internal' ]     = 'contact';
 		$this->load->view( 'template', $data );
-	}	 
+	}	
+ /*   	function terms( )
+	{
+		$data[ 'color' ] = 'terms';
+		$data[ 'page' ] = 'innerpage';
+		$data[ 'title' ]     = 'Terms';
+		$data[ 'internal' ]     = 'terms';
+		$this->load->view( 'template', $data );
+	}*/
 	function underconstruction( )
 	{
 		$data[ 'color' ] = 'portfolio';

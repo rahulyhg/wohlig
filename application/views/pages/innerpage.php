@@ -12,6 +12,8 @@
 		<a href="<?php echo site_url('site/portfolio'); ?>"><span class="smallcircle portfolio" ><img src="<?php echo base_url('assets/img/portfolio.png');?>" /><div class="smallcircletext">portfolio</div></span></a>
 		<a href="<?php echo site_url('site/testimonial'); ?>"><span class="smallcircle testimonial" ><img src="<?php echo base_url('assets/img/testimonial.png');?>" /><div class="smallcircletext">testimonial</div></span></a>
 		<a href="<?php echo site_url('site/contact'); ?>"><span class="smallcircle contact" ><img src="<?php echo base_url('assets/img/contact.png');?>" /><div class="smallcircletext">contact</div></span></a>
+				
+
 		</div>
 	</div>
 	<div class="span8">
