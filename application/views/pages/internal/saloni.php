@@ -26,6 +26,6 @@ she pretends to be ignorant of her potentials as she pretends to be or is humble
 
 nothing more than a simple ordinary girl. As it’s said the sign of a true hero is humility.</p>
 <p> <b>Favorite movie -</b> “Hum Saath Saath Hain"</p>
-<p> <b>Favourite Quote -</b> "Its not because i want to, its because you said i can't."</p>
-<p> <b>One word for her -</b>"da vinci"</p>
+<p> <b>Favourite Quote -</b> “and when you get the choice to sit it out or dance, I hope you dance</p>
+<p> <b>One word for her -</b>"Charming"</p>
 <!--<p><b>Contact:</b> +918796622179 | mahesh@wohlig.com</p>-->
