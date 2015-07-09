@@ -93,15 +93,6 @@ class Site extends CI_Controller {
 		$this->load->view( 'template', $data );
 	}
     
-    
-	function dhruv( )
-	{
-		$data[ 'color' ] = 'team';
-		$data[ 'page' ] = 'innerpage';
-		$data[ 'title' ]     = 'Wohlig Team Dhruv';
-		$data[ 'internal' ]     = 'dhruv';
-		$this->load->view( 'template', $data );
-	}
 	function omar( )
 	{
 		$data[ 'color' ] = 'team';
